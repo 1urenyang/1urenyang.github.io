@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>卢小七的栖息地</title>
+    <link>https://www.lurenyang.com/</link>
+    <description>Recent content on 卢小七的栖息地</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Fri, 31 Jan 2020 10:36:20 +0800</lastBuildDate>
+    
+	<atom:link href="https://www.lurenyang.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>我是谁</title>
+      <link>https://www.lurenyang.com/about/</link>
+      <pubDate>Fri, 31 Jan 2020 10:36:20 +0800</pubDate>
+      
+      <guid>https://www.lurenyang.com/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo搭建静态博客</title>
+      <link>https://www.lurenyang.com/post/Hugo%E6%90%AD%E5%BB%BA%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Sun, 02 Jun 2019 19:55:38 +0800</pubDate>
+      
+      <guid>https://www.lurenyang.com/post/Hugo%E6%90%AD%E5%BB%BA%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;是一款使用&lt;a href=&#34;https://golang.org/&#34;&gt;Go&lt;/a&gt;语言编写的静态网站生成器。&lt;/p&gt;
+&lt;p&gt;特点: 部署简单,无多余依赖,容易上手.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Python正则表达式</title>
+      <link>https://www.lurenyang.com/post/python%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F/</link>
+      <pubDate>Wed, 06 Mar 2019 12:53:49 +0800</pubDate>
+      
+      <guid>https://www.lurenyang.com/post/python%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo搭建静态博客</title>
+      <link>https://www.lurenyang.com/archives/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.lurenyang.com/archives/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

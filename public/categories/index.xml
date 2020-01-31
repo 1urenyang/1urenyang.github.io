@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on 卢小七的栖息地</title>
+    <link>https://www.lurenyang.com/categories/</link>
+    <description>Recent content in Categories on 卢小七的栖息地</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sun, 02 Jun 2019 19:55:38 +0800</lastBuildDate>
+    
+	<atom:link href="https://www.lurenyang.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>记录</title>
+      <link>https://www.lurenyang.com/categories/%E8%AE%B0%E5%BD%95/</link>
+      <pubDate>Sun, 02 Jun 2019 19:55:38 +0800</pubDate>
+      
+      <guid>https://www.lurenyang.com/categories/%E8%AE%B0%E5%BD%95/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
